@@ -1,7 +1,7 @@
 # GP-transmission -- Influenza viral transmission bottlenecks and evolution
 Welcome to the repository for the supporting information and files necessary to reproduce the analyses from Holmes et al (2025) "Viral expansion after transfer is a primary driver of influenza A virus transmission bottlenecks". 
 
-The sequence data generated for this manuscript are available on the NCBI SRA under the accesssion number [PRJNA1253752](https://www.ncbi.nlm.nih.gov/bioproject/1253752).
+The sequence data generated for this manuscript are available on the NCBI SRA under the accesssion number [PRJNA1253752](https://www.ncbi.nlm.nih.gov/bioproject/1253752).
 
 
 ## How this repository is organized
