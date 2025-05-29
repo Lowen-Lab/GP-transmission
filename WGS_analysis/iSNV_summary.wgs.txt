@@ -1,0 +1,2 @@
+sampleID	segment	loc	cov	minor_nt	major_nt	minor_prop	major_prop	minor_sigma	major_sigma	sub_ID	ref_aa	sub_aa
+E2-GP31-D5	IAV_NP	756	1414.0	G	A	0.0488	0.9512	5.379	9.42	NP-M237V (NS)	M	V
